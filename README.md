@@ -1,2 +1,2 @@
 # composer-vendor-reserve-alt
-Reserving vendor name in composer (alternative name)
+Reserving `angletech` vendor name in composer (alternative name) since we've recently acquired [angle.tech](http://angle.tech).
